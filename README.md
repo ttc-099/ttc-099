@@ -32,7 +32,7 @@ I like making stuff, and I'm a big fan of cool stuff that makes people's lives e
 
 <div align="center">
 <a href="https://github.com/ttc-099">
-<img src="https://github-readme-stats.vercel.app/api?username=ttc-099&show_icons=true&hide=issues,contribs&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79&include_all_commits=true&cache_seconds=1800" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ttc-099&show_icons=true&hide=issues,contribs&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79&include_all_commits=true&cache_seconds=1900" alt="stats" />
 </a>
 <a href="https://github.com/ttc-099?tab=repositories">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttc-099&layout=compact&langs_count=8&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79&cache_seconds=1800" alt="languages" />
