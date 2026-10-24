@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header.svg">
-  <img src="header-light.svg" width="100%" alt="Hi, I'm Sheri!">
+  <source media="(prefers-color-scheme: dark)" srcset="header-wave.svg">
+  <img src="header-wave-light.svg" width="100%" alt="Hi, I'm Sheri!">
 </picture>
 </div>
 
@@ -95,8 +95,8 @@ Thank you for stopping by!
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="footer.svg">
-  <img src="footer-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="footer-wave.svg">
+  <img src="footer-wave-light.svg" width="100%" alt="">
 </picture>
 
 </div>
