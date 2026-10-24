@@ -1,5 +1,8 @@
 <div align="center">
-<img src="header.svg" width="100%" alt="Hi, I'm Sheri!" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header.svg">
+  <img src="header-light.svg" width="100%" alt="Hi, I'm Sheri!">
+</picture>
 </div>
 
 <br>
@@ -32,27 +35,48 @@ I like making stuff, and I'm a big fan of cool stuff that makes people's lives e
 
 <div align="center">
 <a href="https://github.com/ttc-099">
-<img src="https://github-readme-stats.vercel.app/api?username=ttc-099&show_icons=true&hide=issues,contribs&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79&include_all_commits=true&cache_seconds=1900" alt="stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ttc-099&show_icons=true&hide=issues,contribs&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79&include_all_commits=true&cache_seconds=1900">
+  <img src="https://github-readme-stats.vercel.app/api?username=ttc-099&show_icons=true&hide=issues,contribs&hide_border=true&bg_color=FFFFFF&title_color=915F6D&text_color=3A2430&icon_color=B76E79&include_all_commits=true&cache_seconds=1900" alt="stats">
+</picture>
 </a>
 <a href="https://github.com/ttc-099?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttc-099&layout=compact&langs_count=8&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79&cache_seconds=1800" alt="languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ttc-099&layout=compact&langs_count=8&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79&cache_seconds=1800">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttc-099&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=915F6D&text_color=3A2430&icon_color=B76E79&cache_seconds=1900" alt="languages">
+</picture>
 </a>
 </div>
 
 ### ✦ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,ts,js,html,css&theme=dark" alt="languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,python,ts,js,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=c,java,python,ts,js,html,css&theme=light" alt="languages">
+</picture>
 <br>
-<img src="https://skillicons.dev/icons?i=bash,git,github,linux,vscode,md&theme=dark" alt="tools" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,git,github,linux,vscode,md&theme=dark">
+  <img src="https://skillicons.dev/icons?i=bash,git,github,linux,vscode,md&theme=light" alt="tools">
+</picture>
 </div>
 
 ### ✦ Shipped
 
 <div align="center">
-<a href="https://github.com/ttc-099/Wattwise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=Wattwise&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79" alt="Wattwise" /></a>
-<a href="https://github.com/ttc-099/fokus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=fokus&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79" alt="fokus" /></a>
-<a href="https://github.com/ttc-099/theMagicBistro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=theMagicBistro&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79" alt="theMagicBistro" /></a>
+<a href="https://github.com/ttc-099/Wattwise"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=Wattwise&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=Wattwise&hide_border=true&bg_color=FFFFFF&title_color=915F6D&text_color=3A2430&icon_color=B76E79" alt="Wattwise">
+</picture></a>
+<a href="https://github.com/ttc-099/fokus"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=fokus&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=fokus&hide_border=true&bg_color=FFFFFF&title_color=915F6D&text_color=3A2430&icon_color=B76E79" alt="fokus">
+</picture></a>
+<a href="https://github.com/ttc-099/theMagicBistro"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=theMagicBistro&hide_border=true&bg_color=15101B&title_color=C9A7EB&text_color=D8C7E1&icon_color=B76E79">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ttc-099&repo=theMagicBistro&hide_border=true&bg_color=FFFFFF&title_color=915F6D&text_color=3A2430&icon_color=B76E79" alt="theMagicBistro">
+</picture></a>
 </div>
 
 ### ✦ Currently
@@ -70,6 +94,9 @@ Thank you for stopping by!
 
 <br>
 
-<img src="footer.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="footer.svg">
+  <img src="footer-light.svg" width="100%" alt="">
+</picture>
 
 </div>
