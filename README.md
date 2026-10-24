@@ -52,17 +52,17 @@ I like making stuff, and I'm a big fan of cool stuff that makes people's lives e
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,python,ts,js,html,css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=c,java,python,ts,js,html,css&theme=light" alt="languages">
+  <source media="(prefers-color-scheme: dark)" srcset="stack1-dark.svg">
+  <img src="stack1-light.svg" alt="languages">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,git,github,linux,vscode,md&theme=dark">
-  <img src="https://skillicons.dev/icons?i=bash,git,github,linux,vscode,md&theme=light" alt="tools">
+  <source media="(prefers-color-scheme: dark)" srcset="stack2-dark.svg">
+  <img src="stack2-light.svg" alt="tools">
 </picture>
 </div>
 
-### ✦ Shipped
+### ✦ Favourites
 
 <div align="center">
 <a href="https://github.com/ttc-099/Wattwise"><picture>
